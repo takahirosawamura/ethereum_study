@@ -1,3 +1,7 @@
 # ethereum_study
 - geth  
-- browser-solidity
+- mining  
+- transaction  
+- remix  
+- browser-solidity  
+- remix connexts geth
