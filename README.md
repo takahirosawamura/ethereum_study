@@ -4,4 +4,7 @@
 - transaction  
 - remix  
 - browser-solidity  
-- remix connexts geth
+- remix connects geth  
+- truffle    
+- ganache    
+- metamask
