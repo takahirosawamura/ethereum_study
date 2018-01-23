@@ -7,4 +7,8 @@
 - remix connects geth  
 - truffle    
 - ganache    
-- metamask
+- metamask  
+
+## check  
+- ERC20  
+- ERC721
