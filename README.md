@@ -12,3 +12,16 @@
 ## check  
 - ERC20  
 - ERC721
+
+
+## Mining
+- geth
+- EthOS
+- Nicehash
+
+## Dapps
+- Solidity
+- Truffle
+
+## Protocols
+- OSS
